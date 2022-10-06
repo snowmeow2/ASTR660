@@ -10,7 +10,7 @@ program pi
     integer, dimension(NMAX) :: n_iteration
 
     open(unit=1, file='pi_error.dat', status='replace')
-    write(1, *) "N ", "Rel_err"
+    write(1, *) "N   ", "Rel_err"
     do i = 1,NMAX
         n_iteration(i) = 10**i
         area = 0
