@@ -1,8 +1,9 @@
 exercise/numbers1.f90
 exercise/numbers2.f90
 exercise/pi*
+L*exercise
 a.out
-homework/*
+homework
 ex2.py
 hello.f90
 .vscode
