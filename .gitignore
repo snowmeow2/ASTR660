@@ -7,3 +7,4 @@ homework
 ex2.py
 hello.f90
 .vscode
+*.mod
